@@ -1,5 +1,3 @@
-The response would be an array of objects with priceRange and count properties, like this:
-
 [
   { "priceRange": "0 - 100", "count": 10 },
   { "priceRange": "101 - 200", "count": 20 },
